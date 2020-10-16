@@ -1,0 +1,13 @@
+C:\Users\jocm\My Private Documents\Exercícios\Exercicio.2\obj\Debug\netcoreapp3.1\Exercicio.2.csprojAssemblyReference.cache
+C:\Users\jocm\My Private Documents\Exercícios\Exercicio.2\obj\Debug\netcoreapp3.1\Exercicio.2.AssemblyInfoInputs.cache
+C:\Users\jocm\My Private Documents\Exercícios\Exercicio.2\obj\Debug\netcoreapp3.1\Exercicio.2.AssemblyInfo.cs
+C:\Users\jocm\My Private Documents\Exercícios\Exercicio.2\obj\Debug\netcoreapp3.1\Exercicio.2.csproj.CoreCompileInputs.cache
+C:\Users\jocm\My Private Documents\Exercícios\Exercicio.2\bin\Debug\netcoreapp3.1\Exercicio.2.exe
+C:\Users\jocm\My Private Documents\Exercícios\Exercicio.2\bin\Debug\netcoreapp3.1\Exercicio.2.deps.json
+C:\Users\jocm\My Private Documents\Exercícios\Exercicio.2\bin\Debug\netcoreapp3.1\Exercicio.2.runtimeconfig.json
+C:\Users\jocm\My Private Documents\Exercícios\Exercicio.2\bin\Debug\netcoreapp3.1\Exercicio.2.runtimeconfig.dev.json
+C:\Users\jocm\My Private Documents\Exercícios\Exercicio.2\bin\Debug\netcoreapp3.1\Exercicio.2.dll
+C:\Users\jocm\My Private Documents\Exercícios\Exercicio.2\bin\Debug\netcoreapp3.1\Exercicio.2.pdb
+C:\Users\jocm\My Private Documents\Exercícios\Exercicio.2\obj\Debug\netcoreapp3.1\Exercicio.2.dll
+C:\Users\jocm\My Private Documents\Exercícios\Exercicio.2\obj\Debug\netcoreapp3.1\Exercicio.2.pdb
+C:\Users\jocm\My Private Documents\Exercícios\Exercicio.2\obj\Debug\netcoreapp3.1\Exercicio.2.genruntimeconfig.cache
