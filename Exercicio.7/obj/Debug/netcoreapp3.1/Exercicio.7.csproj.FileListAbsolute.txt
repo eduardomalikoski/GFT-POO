@@ -1,0 +1,13 @@
+C:\Users\jocm\My Private Documents\Exercícios\Exercicio.7\obj\Debug\netcoreapp3.1\Exercicio.7.csprojAssemblyReference.cache
+C:\Users\jocm\My Private Documents\Exercícios\Exercicio.7\obj\Debug\netcoreapp3.1\Exercicio.7.AssemblyInfoInputs.cache
+C:\Users\jocm\My Private Documents\Exercícios\Exercicio.7\obj\Debug\netcoreapp3.1\Exercicio.7.AssemblyInfo.cs
+C:\Users\jocm\My Private Documents\Exercícios\Exercicio.7\obj\Debug\netcoreapp3.1\Exercicio.7.csproj.CoreCompileInputs.cache
+C:\Users\jocm\My Private Documents\Exercícios\Exercicio.7\bin\Debug\netcoreapp3.1\Exercicio.7.exe
+C:\Users\jocm\My Private Documents\Exercícios\Exercicio.7\bin\Debug\netcoreapp3.1\Exercicio.7.deps.json
+C:\Users\jocm\My Private Documents\Exercícios\Exercicio.7\bin\Debug\netcoreapp3.1\Exercicio.7.runtimeconfig.json
+C:\Users\jocm\My Private Documents\Exercícios\Exercicio.7\bin\Debug\netcoreapp3.1\Exercicio.7.runtimeconfig.dev.json
+C:\Users\jocm\My Private Documents\Exercícios\Exercicio.7\bin\Debug\netcoreapp3.1\Exercicio.7.dll
+C:\Users\jocm\My Private Documents\Exercícios\Exercicio.7\bin\Debug\netcoreapp3.1\Exercicio.7.pdb
+C:\Users\jocm\My Private Documents\Exercícios\Exercicio.7\obj\Debug\netcoreapp3.1\Exercicio.7.dll
+C:\Users\jocm\My Private Documents\Exercícios\Exercicio.7\obj\Debug\netcoreapp3.1\Exercicio.7.pdb
+C:\Users\jocm\My Private Documents\Exercícios\Exercicio.7\obj\Debug\netcoreapp3.1\Exercicio.7.genruntimeconfig.cache
